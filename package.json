@@ -1,0 +1,29 @@
+{
+  "name": "a-event-property",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "dependencies": {
+    "mixto": "",
+    "a-event-format-fn": ""
+  },
+  "devDependencies": {
+    "kosher": ""
+  },
+  "scripts": {
+    "test": "mocha --reporter spec --compilers coffee:coffee-script/register ./spec"
+  },
+  "description": "A Event Property",
+  "keywords": [
+    "a",
+    "event",
+    "property"
+  ],
+  "homepage": "https://github.com/joaoafrmartins/a-event-property",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/a-event-property.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/a-event-property/issues"
+  }
+}
